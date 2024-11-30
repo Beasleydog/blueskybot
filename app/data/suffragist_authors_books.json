@@ -46,6 +46,11 @@
       "link": "https://www.gutenberg.org/ebooks/40481.html.images"
     },
     {
+      "title": "Moving the Mountain",
+      "author": "Gilman, Charlotte Perkins",
+      "link": "https://www.gutenberg.org/ebooks/66864.html.images"
+    },
+    {
       "title": "What Diantha Did",
       "author": "Gilman, Charlotte Perkins",
       "link": "https://www.gutenberg.org/ebooks/3016.html.images"
@@ -59,11 +64,6 @@
       "title": "Human Work",
       "author": "Gilman, Charlotte Perkins",
       "link": "https://www.gutenberg.org/ebooks/64098.html.images"
-    },
-    {
-      "title": "Moving the Mountain",
-      "author": "Gilman, Charlotte Perkins",
-      "link": "https://www.gutenberg.org/ebooks/66864.html.images"
     },
     {
       "title": "De economische toestand der vrouw: Een studie over de economische verhouding tusschen mannen en vrouwen als een factor in de sociale evolutie",
@@ -97,6 +97,11 @@
       "link": "https://www.gutenberg.org/ebooks/29220.html.images"
     },
     {
+      "title": "The Common Reader",
+      "author": "Woolf, Virginia",
+      "link": "https://www.gutenberg.org/ebooks/64457.html.images"
+    },
+    {
       "title": "Night and Day",
       "author": "Woolf, Virginia",
       "link": "https://www.gutenberg.org/files/26584/26584_index.html"
@@ -110,11 +115,6 @@
       "title": "Two Stories",
       "author": "Woolf, Virginia",
       "link": "https://www.gutenberg.org/ebooks/63230.html.images"
-    },
-    {
-      "title": "The Common Reader",
-      "author": "Woolf, Virginia",
-      "link": "https://www.gutenberg.org/ebooks/64457.html.images"
     },
     {
       "title": "Mr. Bennett and Mrs. Brown",
@@ -196,8 +196,45 @@
       "link": "https://www.gutenberg.org/ebooks/64426.html.images"
     }
   ],
-  "Elizabeth Cady Stanton": [],
-  "Susan B. Anthony": [],
+  "Elizabeth Stanton": [
+    {
+      "title": "The Woman's Bible",
+      "author": "Stanton, Elizabeth Cady",
+      "link": "https://www.gutenberg.org/ebooks/9880.html.images"
+    },
+    {
+      "title": "Eighty Years and More; Reminiscences 1815-1897",
+      "author": "Stanton, Elizabeth Cady",
+      "link": "https://www.gutenberg.org/ebooks/11982.html.images"
+    }
+  ],
+  "Susan Anthony": [
+    {
+      "title": "The Life and Work of Susan B. Anthony (Volume 1 of 2): Including Public Addresses, Her Own Letters and Many From Her Contemporaries During Fifty Years",
+      "author": "Harper, Ida Husted",
+      "link": "https://www.gutenberg.org/ebooks/15220.html.images"
+    },
+    {
+      "title": "Susan B. Anthony: Rebel, Crusader, Humanitarian",
+      "author": "Lutz, Alma",
+      "link": "https://www.gutenberg.org/ebooks/20439.html.images"
+    },
+    {
+      "title": "The Life and Work of Susan B. Anthony (Volume 2 of 2): Including Public Addresses, Her Own Letters and Many From Her Contemporaries During Fifty Years",
+      "author": "Harper, Ida Husted",
+      "link": "https://www.gutenberg.org/ebooks/31125.html.images"
+    },
+    {
+      "title": "An Account of the Proceedings on the Trial of Susan B. Anthony, on the Charge of Illegal Voting, at the Presidential Election in Nov., 1872, and on the Trial of Beverly W. Jones, Edwin T. Marsh, and William B. Hall, the Inspectors of Election by Whom Her Vote was Received.",
+      "author": "Anonymous",
+      "link": "https://www.gutenberg.org/ebooks/18281.html.images"
+    },
+    {
+      "title": "The Courtship of Susan Bell",
+      "author": "Trollope, Anthony",
+      "link": "https://www.gutenberg.org/ebooks/3700.html.images"
+    }
+  ],
   "Harriet Martineau": [
     {
       "title": "Society in America, Volume 1 (of 2)",
@@ -384,6 +421,1373 @@
       "title": "Ideala",
       "author": "Grand, Sarah",
       "link": "https://www.gutenberg.org/ebooks/6855.html.images"
+    }
+  ],
+  "Alice Miller": [
+    {
+      "title": "Are Women People? A Book of Rhymes for Suffrage Times",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/11689.html.images"
+    },
+    {
+      "title": "The Beauty and the Bolshevist",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/13146.html.images"
+    },
+    {
+      "title": "The Burglar and the Blizzard: A Christmas Story",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/14835.html.images"
+    },
+    {
+      "title": "Ladies Must Live",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/12789.html.images"
+    },
+    {
+      "title": "Are Parents People?",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/64917.html.images"
+    },
+    {
+      "title": "The Priceless Pearl",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/64192.html.images"
+    },
+    {
+      "title": "The happiest time of their lives",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/11325.html.images"
+    },
+    {
+      "title": "Manslaughter",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/33985.html.images"
+    },
+    {
+      "title": "Come Out of the Kitchen! A Romance",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/33145.html.images"
+    },
+    {
+      "title": "Less than kin",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/71674.html.images"
+    },
+    {
+      "title": "Things",
+      "author": "Miller, Alice Duer",
+      "link": "https://www.gutenberg.org/ebooks/66862.html.images"
+    }
+  ],
+  "Jane Austen": [
+    {
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/1342.html.images"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/161.html.images"
+    },
+    {
+      "title": "Emma",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/158.html.images"
+    },
+    {
+      "title": "Persuasion",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/105.html.images"
+    },
+    {
+      "title": "Northanger Abbey",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/121.html.images"
+    },
+    {
+      "title": "Mansfield Park",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/141.html.images"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/42671.html.images"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/26301/26301-index.html"
+    },
+    {
+      "title": "The Letters of Jane Austen: Selected from the compilation of her great nephew, Edward, Lord Bradbourne",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/42078.html.images"
+    },
+    {
+      "title": "Emma",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/19839/19839-index.html"
+    },
+    {
+      "title": "Lady Susan",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/946.html.images"
+    },
+    {
+      "title": "Love and Freindship [sic]",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/1212.html.images"
+    },
+    {
+      "title": "The Complete Project Gutenberg Works of Jane Austen: A Linked Index of all PG Editions of Jane Austen",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/31100.html.images"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/20687/20687-index.html"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/22964/22964-index.html"
+    },
+    {
+      "title": "Northanger Abbey",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/20682/20682-index.html"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/20686/20686-index.html"
+    },
+    {
+      "title": "Mansfield Park",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/22962/22962-index.html"
+    },
+    {
+      "title": "Memoir of Jane Austen",
+      "author": "Austen-Leigh, James Edward",
+      "link": "https://www.gutenberg.org/ebooks/17797.html.images"
+    },
+    {
+      "title": "Persuasion",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/22963/22963-index.html"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/21839.html.images"
+    },
+    {
+      "title": "Pride and Prejudice, a play founded on Jane Austen's novel",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/37431.html.images"
+    },
+    {
+      "title": "Jane Austen, Her Life and Letters: A Family Record",
+      "author": "Austen-Leigh, Richard Arthur",
+      "link": "https://www.gutenberg.org/ebooks/22536.html.images"
+    },
+    {
+      "title": "The Watsons: By Jane Austen, Concluded by L. Oulton",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/63569.html.images"
+    },
+    {
+      "title": "Fragment of a novel written by Jane Austen, January-March 1817 : $b Now first printed from the manuscript",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/74233.html.images"
+    },
+    {
+      "title": "Lady Susan",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/22953/22953-index.html"
+    },
+    {
+      "title": "Love and Freindship [sic]",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/files/22954/22954-index.html"
+    },
+    {
+      "title": "Old friends and new fancies : $b an imaginary sequel to the novels of Jane Austen",
+      "author": "Brinton, Sybil G. (Sybil Grace)",
+      "link": "https://www.gutenberg.org/ebooks/43741.html.images"
+    },
+    {
+      "title": "Jane Austen and Her Times",
+      "author": "Mitton, G. E. (Geraldine Edith)",
+      "link": "https://www.gutenberg.org/ebooks/52622.html.images"
+    },
+    {
+      "title": "Persuasion",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/36777.html.images"
+    },
+    {
+      "title": "Gevoel en verstand",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/25946.html.images"
+    },
+    {
+      "title": "Raison et sensibilité, ou les deux manières d'aimer (Tome 3)",
+      "author": "Austen, Jane",
+      "link": "https://www.gutenberg.org/ebooks/35163.html.images"
+    }
+  ],
+  "Constance Garnett": [],
+  "Lucy Maud Montgomery": [
+    {
+      "title": "The Blue Castle: a novel",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/67979.html.images"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/45.html.images"
+    },
+    {
+      "title": "Anne of the Island",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/51.html.images"
+    },
+    {
+      "title": "Anne of Avonlea",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/47.html.images"
+    },
+    {
+      "title": "Anne's House of Dreams",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/544.html.images"
+    },
+    {
+      "title": "Rilla of Ingleside",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/3796.html.images"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/20593/20593-index.html"
+    },
+    {
+      "title": "Anne of the Island",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/20265/20265-index.html"
+    },
+    {
+      "title": "Emily of New Moon",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/61236.html.images"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/19576/19576-index.html"
+    },
+    {
+      "title": "Rainbow Valley",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/5343.html.images"
+    },
+    {
+      "title": "Rilla of Ingleside",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/26265/26265-index.html"
+    },
+    {
+      "title": "The Story Girl",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/5342.html.images"
+    },
+    {
+      "title": "Anne of Avonlea",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/19575/19575-index.html"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1909 to 1922",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24878.html.images"
+    },
+    {
+      "title": "The Story Girl",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/26273/26273-index.html"
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/64365.html.images"
+    },
+    {
+      "title": "The Golden Road",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/316.html.images"
+    },
+    {
+      "title": "Index of the Project Gutenberg Works of Lucy Maud Montgomery",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/59324.html.images"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1902 to 1903",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24874.html.images"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1904",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24875.html.images"
+    },
+    {
+      "title": "Rainbow Valley",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/26469/26469_index.html"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1896 to 1901",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24873.html.images"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1905 to 1906",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24876.html.images"
+    },
+    {
+      "title": "Lucy Maud Montgomery Short Stories, 1907 to 1908",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/24877.html.images"
+    },
+    {
+      "title": "Chronicles of Avonlea",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/1354.html.images"
+    },
+    {
+      "title": "Kilmeny of the Orchard",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/5341.html.images"
+    },
+    {
+      "title": "Further Chronicles of Avonlea",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/5340.html.images"
+    },
+    {
+      "title": "The Golden Road",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/files/26221/26221-index.html"
+    },
+    {
+      "title": "Annan nuoruusvuodet",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/49717.html.images"
+    },
+    {
+      "title": "Anna omassa kodissaan",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/50348.html.images"
+    },
+    {
+      "title": "Anna ystävämme",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "link": "https://www.gutenberg.org/ebooks/49812.html.images"
+    }
+  ],
+  "Charlotte Bronte": [
+    {
+      "title": "Their Mariposa Legend: A Romance of Santa Catalina",
+      "author": "Herr, Charlotte B. (Charlotte Bronte)",
+      "link": "https://www.gutenberg.org/ebooks/5196.html.images"
+    },
+    {
+      "title": "How Freckle Frog Made Herself Pretty",
+      "author": "Herr, Charlotte B. (Charlotte Bronte)",
+      "link": "https://www.gutenberg.org/ebooks/19197.html.images"
+    },
+    {
+      "title": "The Wise Mamma Goose",
+      "author": "Herr, Charlotte B. (Charlotte Bronte)",
+      "link": "https://www.gutenberg.org/ebooks/11936.html.images"
+    }
+  ],
+  "Emily Bronte": [],
+  "Louisa May Alcott": [
+    {
+      "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/37106.html.images"
+    },
+    {
+      "title": "Little Women",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/514.html.images"
+    },
+    {
+      "title": "Little Women",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/files/26297/26297-index.html"
+    },
+    {
+      "title": "Jo's Boys",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/3499.html.images"
+    },
+    {
+      "title": "Little Men: Life at Plumfield With Jo's Boys",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/2788.html.images"
+    },
+    {
+      "title": "Jack and Jill",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/2786.html.images"
+    },
+    {
+      "title": "An Old-Fashioned Girl",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/2787.html.images"
+    },
+    {
+      "title": "Jack and Jill",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/files/22451/22451-index.html"
+    },
+    {
+      "title": "Louisa May Alcott : Her Life, Letters, and Journals",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/38049.html.images"
+    },
+    {
+      "title": "Behind a Mask; or, a Woman's Power",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/8677.html.images"
+    },
+    {
+      "title": "Rose in Bloom: A Sequel to \"Eight Cousins\"",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/2804.html.images"
+    },
+    {
+      "title": "Eight Cousins",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/2726.html.images"
+    },
+    {
+      "title": "Index of the Project Gutenberg Works of Louisa M. Alcott",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/58158.html.images"
+    },
+    {
+      "title": "Lulu's Library, Volume 1 (of 3)",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/40682.html.images"
+    },
+    {
+      "title": "Little Men",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/files/22787/22787-index.html"
+    },
+    {
+      "title": "Onder Moeders Vleugels",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/files/26299/26299-index.html"
+    },
+    {
+      "title": "Proverb Stories",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/57321.html.images"
+    },
+    {
+      "title": "A Modern Cinderella; Or, The Little Old Shoe, and Other Stories",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/3806.html.images"
+    },
+    {
+      "title": "Aunt Jo's Scrap Bag, Volume 6: An Old-Fashioned Thanksgiving, Etc.",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/27567.html.images"
+    },
+    {
+      "title": "The Louisa Alcott Reader: a Supplementary Reader for the Fourth Year of School",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/7425.html.images"
+    },
+    {
+      "title": "Hospital Sketches",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/3837.html.images"
+    },
+    {
+      "title": "Flower Fables",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/163.html.images"
+    },
+    {
+      "title": "Work: A Story of Experience",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/4770.html.images"
+    },
+    {
+      "title": "A Garland for Girls",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/5830.html.images"
+    },
+    {
+      "title": "A Modern Mephistopheles, and A Whisper in the Dark",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/54212.html.images"
+    },
+    {
+      "title": "Lulu's Library, Volume 2 (of 3)",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/32357.html.images"
+    },
+    {
+      "title": "The Abbot's Ghost, or Maurice Treherne's Temptation: A Christmas Story",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/8694.html.images"
+    },
+    {
+      "title": "Moods",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/28203.html.images"
+    },
+    {
+      "title": "Pauline's Passion and Punishment",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/8384.html.images"
+    },
+    {
+      "title": "Comic Tragedies: Written by 'Jo' and 'Meg' and Acted by The 'Little Women'",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/33986.html.images"
+    },
+    {
+      "title": "Little Men: Life at Plumfield with Jo's Boys",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/52900.html.images"
+    },
+    {
+      "title": "Spinning-Wheel Stories",
+      "author": "Alcott, Louisa May",
+      "link": "https://www.gutenberg.org/ebooks/36221.html.images"
+    }
+  ],
+  "Margaret Oliphant": [
+    {
+      "title": "The Open Door, and the Portrait.: Stories of the Seen and the Unseen.",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/10052.html.images"
+    },
+    {
+      "title": "The Story of a Governess",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/59918.html.images"
+    },
+    {
+      "title": "Phoebe, Junior",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/28629.html.images"
+    },
+    {
+      "title": "Miss Marjoribanks",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/41286.html.images"
+    },
+    {
+      "title": "Hester: A Story of Contemporary Life, Volume 2 (of 3)",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/48198.html.images"
+    },
+    {
+      "title": "A Beleaguered City: Being a Narrative of Certain Recent Events in the City of Semur, in the Department of the Haute Bourgogne. A Story of the Seen and the Unseen",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/11521.html.images"
+    },
+    {
+      "title": "Women Novelists of Queen Victoria's Reign: A Book of Appreciations",
+      "author": "Lyall, Edna",
+      "link": "https://www.gutenberg.org/ebooks/36641.html.images"
+    },
+    {
+      "title": "The Makers of Modern Rome, in Four Books",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/40135.html.images"
+    },
+    {
+      "title": "The Marriage of Elinor",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/28637.html.images"
+    },
+    {
+      "title": "Hester: A Story of Contemporary Life, Volume 3 (of 3)",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/48199.html.images"
+    },
+    {
+      "title": "Hester: A Story of Contemporary Life, Volume 1 (of 3)",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/48197.html.images"
+    },
+    {
+      "title": "The Greatest Heiress in England",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/64540.html.images"
+    },
+    {
+      "title": "The Laird of Norlaw; A Scottish Story",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/54053.html.images"
+    },
+    {
+      "title": "Royal Edinburgh: Her Saints, Kings, Prophets and Poets",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/25701.html.images"
+    },
+    {
+      "title": "The Mystery of Mrs. Blencarrow",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/61482.html.images"
+    },
+    {
+      "title": "The Primrose Path: A Chapter in the Annals of the Kingdom of Fife",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/65458.html.images"
+    },
+    {
+      "title": "Jeanne D'Arc: Her Life And Death",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/2553.html.images"
+    },
+    {
+      "title": "Harry Joscelyn; vol. 2 of 3",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/63158.html.images"
+    },
+    {
+      "title": "Old Lady Mary: A Story of the Seen and the Unseen",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/10049.html.images"
+    },
+    {
+      "title": "The Doctor's Family",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/29890.html.images"
+    },
+    {
+      "title": "The Little Pilgrim: Further Experiences.: Stories of the Seen and the Unseen.",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/10051.html.images"
+    },
+    {
+      "title": "A Rose in June",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/54882.html.images"
+    },
+    {
+      "title": "Oliver's Bride; A true Story",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/63582.html.images"
+    },
+    {
+      "title": "Neighbours on the Green",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/54106.html.images"
+    },
+    {
+      "title": "The Executor: Blackwood's Edinburgh Magazine vol. LXXXIX",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/59759.html.images"
+    },
+    {
+      "title": "It was a Lover and His Lass",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/49597.html.images"
+    },
+    {
+      "title": "A Widow's Tale, and Other Stories",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/43084.html.images"
+    },
+    {
+      "title": "Who Was Lost and Is Found: A Novel",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/55827.html.images"
+    },
+    {
+      "title": "A Little Pilgrim in the Unseen",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/15410.html.images"
+    },
+    {
+      "title": "Innocent : $b a tale of modern life",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/71671.html.images"
+    },
+    {
+      "title": "A Son of the Soil",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/57988.html.images"
+    },
+    {
+      "title": "The Quiet Heart",
+      "author": "Oliphant, Mrs. (Margaret)",
+      "link": "https://www.gutenberg.org/ebooks/59326.html.images"
+    }
+  ],
+  "Elizabeth Gaskell": [
+    {
+      "title": "Cranford",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/394.html.images"
+    },
+    {
+      "title": "North and South",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4276.html.images"
+    },
+    {
+      "title": "Mary Barton",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2153.html.images"
+    },
+    {
+      "title": "Wives and Daughters",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4274.html.images"
+    },
+    {
+      "title": "The Grey Woman and other Tales",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/28636.html.images"
+    },
+    {
+      "title": "Curious, if True: Strange Tales",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/24879.html.images"
+    },
+    {
+      "title": "Ruth",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4275.html.images"
+    },
+    {
+      "title": "Sylvia's Lovers — Complete",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4537.html.images"
+    },
+    {
+      "title": "The Life of Charlotte Brontë — Volume 1",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/1827.html.images"
+    },
+    {
+      "title": "Half a Life-Time Ago",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2547.html.images"
+    },
+    {
+      "title": "The Poor Clare",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2548.html.images"
+    },
+    {
+      "title": "The Moorland Cottage",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/11371.html.images"
+    },
+    {
+      "title": "Cousin Phillis",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4268.html.images"
+    },
+    {
+      "title": "Lizzie Leigh",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2521.html.images"
+    },
+    {
+      "title": "The Doom of the Griffiths",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2549.html.images"
+    },
+    {
+      "title": "My Lady Ludlow",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2524.html.images"
+    },
+    {
+      "title": "Cranford",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/57539.html.images"
+    },
+    {
+      "title": "Mrs. Gaskell",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/57627.html.images"
+    },
+    {
+      "title": "An Accursed Race",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2531.html.images"
+    },
+    {
+      "title": "A Dark Night's Work",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2522.html.images"
+    },
+    {
+      "title": "Encyclopaedia Britannica, 11th Edition, \"G\" to \"Gaskell, Elizabeth\": Volume 11, Slice 4",
+      "author": "Various",
+      "link": "https://www.gutenberg.org/ebooks/37160.html.images"
+    },
+    {
+      "title": "The Life of Charlotte Brontë — Volume 2",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/1700.html.images"
+    },
+    {
+      "title": "Round the Sofa",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2533.html.images"
+    },
+    {
+      "title": "The Half-Brothers",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/2532.html.images"
+    },
+    {
+      "title": "A House to Let",
+      "author": "Dickens, Charles",
+      "link": "https://www.gutenberg.org/ebooks/2324.html.images"
+    },
+    {
+      "title": "Sylvia's Lovers — Volume 2",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4535.html.images"
+    },
+    {
+      "title": "Round the Sofa; vol. 2",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/58093.html.images"
+    },
+    {
+      "title": "Sylvia's Lovers — Volume 3",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4536.html.images"
+    },
+    {
+      "title": "Round the Sofa; vol. 1",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/58092.html.images"
+    },
+    {
+      "title": "Sylvia's Lovers — Volume 1",
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "link": "https://www.gutenberg.org/ebooks/4534.html.images"
+    },
+    {
+      "title": "A House to Let",
+      "author": "Dickens, Charles",
+      "link": "https://www.gutenberg.org/files/9714/9714-readme.txt"
+    }
+  ],
+  "George Eliot": [
+    {
+      "title": "Middlemarch",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/145.html.images"
+    },
+    {
+      "title": "The Mill on the Floss",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/6688.html.images"
+    },
+    {
+      "title": "Silas Marner",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/550.html.images"
+    },
+    {
+      "title": "Daniel Deronda",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/7469.html.images"
+    },
+    {
+      "title": "The Essays of \"George Eliot\": Complete",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/28289.html.images"
+    },
+    {
+      "title": "Adam Bede",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/507.html.images"
+    },
+    {
+      "title": "Romola",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/24020.html.images"
+    },
+    {
+      "title": "The Lifted Veil",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/2165.html.images"
+    },
+    {
+      "title": "Felix Holt, the Radical",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/40882.html.images"
+    },
+    {
+      "title": "Scenes of Clerical Life",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/17780.html.images"
+    },
+    {
+      "title": "Silas Marner",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/26269/26269-index.html"
+    },
+    {
+      "title": "George Eliot's Life, as Related in Her Letters and Journals. Vol. 1 (of 3)",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/43043.html.images"
+    },
+    {
+      "title": "O May I Join the Choir Invisible! and Other Favorite Poems",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/20742.html.images"
+    },
+    {
+      "title": "George Eliot's Life, as Related in Her Letters and Journals. Vol. 2 (of 3)",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/43044.html.images"
+    },
+    {
+      "title": "Impressions of Theophrastus Such",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/10762.html.images"
+    },
+    {
+      "title": "Middlemarch",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/8227/8227-readme.txt"
+    },
+    {
+      "title": "Index of the Project Gutenberg Works of George Eliot",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/58777.html.images"
+    },
+    {
+      "title": "Daniel Deronda",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/9671/9671-readme.txt"
+    },
+    {
+      "title": "Brother Jacob",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/2171.html.images"
+    },
+    {
+      "title": "How Lisa Loved the King",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/20813.html.images"
+    },
+    {
+      "title": "George Eliot; a Critical Study of Her Life, Writings and Philosophy",
+      "author": "Cooke, George Willis",
+      "link": "https://www.gutenberg.org/ebooks/11680.html.images"
+    },
+    {
+      "title": "The Mill on the Floss",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/9675/9675-readme.txt"
+    },
+    {
+      "title": "Silas Marner",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/24823.html.images"
+    },
+    {
+      "title": "George Eliot's Life, as Related in Her Letters and Journals. Vol. 3 (of 3)",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/43045.html.images"
+    },
+    {
+      "title": "Adam Bede",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/9672/9672-readme.txt"
+    },
+    {
+      "title": "Tom and Maggie Tulliver",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/ebooks/30273.html.images"
+    },
+    {
+      "title": "George Eliot",
+      "author": "Blind, Mathilde",
+      "link": "https://www.gutenberg.org/ebooks/36847.html.images"
+    },
+    {
+      "title": "Critical Miscellanies (Vol. 3 of 3), Essay 4: The Life of George Eliot",
+      "author": "Morley, John",
+      "link": "https://www.gutenberg.org/ebooks/17954.html.images"
+    },
+    {
+      "title": "The Ethics of George Eliot's Works",
+      "author": "Brown, John Crombie",
+      "link": "https://www.gutenberg.org/ebooks/17172.html.images"
+    },
+    {
+      "title": "George Eliot Centenary, November 1919: Catalogue of Relics, Manuscrips, Prints, Paintings, Photographs & Books relating to George Eliot",
+      "author": "Coventry (England). Public Libraries Committee",
+      "link": "https://www.gutenberg.org/ebooks/30959.html.images"
+    },
+    {
+      "title": "Silas Marner",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/9676/9676-readme.txt"
+    },
+    {
+      "title": "The Lifted Veil",
+      "author": "Eliot, George",
+      "link": "https://www.gutenberg.org/files/9674/9674-readme.txt"
+    }
+  ],
+  "Mary Shelley": [
+    {
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/84.html.images"
+    },
+    {
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/41445.html.images"
+    },
+    {
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/42324.html.images"
+    },
+    {
+      "title": "Tales and Stories: Now First Collected",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/56665.html.images"
+    },
+    {
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/files/20038/20038-index.html"
+    },
+    {
+      "title": "Mathilda",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/15238.html.images"
+    },
+    {
+      "title": "The Life and Letters of Mary Wollstonecraft Shelley, Volume 1 (of 2)",
+      "author": "Marshall, Julian, Mrs.",
+      "link": "https://www.gutenberg.org/ebooks/37955.html.images"
+    },
+    {
+      "title": "The Last Man",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/18247.html.images"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/files/6542/6542-readme.txt"
+    },
+    {
+      "title": "Frankenstein, ou le Prométhée moderne Volume 1 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/62404.html.images"
+    },
+    {
+      "title": "Frankenstein, ou le Prométhée moderne Volume 3 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/62406.html.images"
+    },
+    {
+      "title": "Frankenstein, ou le Prométhée moderne Volume 2 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/62405.html.images"
+    },
+    {
+      "title": "History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany, and Holland:: With Letters Descriptive of a Sail Round the Lake of Geneva, and of the Glaciers of Chamouni.",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/52790.html.images"
+    },
+    {
+      "title": "Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 2 of 2",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/74301.html.images"
+    },
+    {
+      "title": "The Life and Letters of Mary Wollstonecraft Shelley, Volume 2 (of 2)",
+      "author": "Marshall, Julian, Mrs.",
+      "link": "https://www.gutenberg.org/ebooks/37956.html.images"
+    },
+    {
+      "title": "The Fortunes of Perkin Warbeck: a romance",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/66749.html.images"
+    },
+    {
+      "title": "Proserpine and Midas",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/6447.html.images"
+    },
+    {
+      "title": "Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 1 of 2",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/74280.html.images"
+    },
+    {
+      "title": "Lives of the most eminent literary and scientific men of France, Vol. 1 (of 2)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/65317.html.images"
+    },
+    {
+      "title": "Notes to the Complete Poetical Works of Percy Bysshe Shelley",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/4695.html.images"
+    },
+    {
+      "title": "Falkner: A Novel",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/64329.html.images"
+    },
+    {
+      "title": "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 1 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/65030.html.images"
+    },
+    {
+      "title": "Valperga Volume 1 (of 3): or, The life and adventures of Castruccio, prince of Lucca",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/63337.html.images"
+    },
+    {
+      "title": "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 3 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/65228.html.images"
+    },
+    {
+      "title": "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 2 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/65110.html.images"
+    },
+    {
+      "title": "Valperga Volume 2 (of 3): or, The life and adventures of Castruccio, prince of Lucca",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/63338.html.images"
+    },
+    {
+      "title": "Lives of the most eminent literary and scientific men of France, Vol. 2 (of 2)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/65361.html.images"
+    },
+    {
+      "title": "The Heir of Mondolfo",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/66545.html.images"
+    },
+    {
+      "title": "Valperga Volume 3 (of 3): or, The life and adventures of Castruccio, prince of Lucca",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/63339.html.images"
+    },
+    {
+      "title": "Lodore, Vol. 1 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/64555.html.images"
+    },
+    {
+      "title": "Lodore, Vol. 3 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/64557.html.images"
+    },
+    {
+      "title": "Lodore, Vol. 2 (of 3)",
+      "author": "Shelley, Mary Wollstonecraft",
+      "link": "https://www.gutenberg.org/ebooks/64556.html.images"
+    }
+  ],
+  "Edith Wharton": [
+    {
+      "title": "Ethan Frome",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4517.html.images"
+    },
+    {
+      "title": "The Age of Innocence",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/541.html.images"
+    },
+    {
+      "title": "The House of Mirth",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/284.html.images"
+    },
+    {
+      "title": "Au temps de l'innocence",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/62147.html.images"
+    },
+    {
+      "title": "Tales of Men and Ghosts",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4514.html.images"
+    },
+    {
+      "title": "Age of Innocence",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/files/26458/26458_index.htm"
+    },
+    {
+      "title": "The Decoration of Houses",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/40367.html.images"
+    },
+    {
+      "title": "The Custom of the Country",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/11052.html.images"
+    },
+    {
+      "title": "Summer",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/166.html.images"
+    },
+    {
+      "title": "Kerfol: 1916",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/24350.html.images"
+    },
+    {
+      "title": "Xingu",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/24131.html.images"
+    },
+    {
+      "title": "The Descent of Man and Other Stories",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4519.html.images"
+    },
+    {
+      "title": "In Morocco",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/39042.html.images"
+    },
+    {
+      "title": "Bunner Sisters",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/311.html.images"
+    },
+    {
+      "title": "The Greater Inclination",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/9190.html.images"
+    },
+    {
+      "title": "The Fruit of the Tree",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/19191.html.images"
+    },
+    {
+      "title": "The Old Maid (The 'Fifties)",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/61290.html.images"
+    },
+    {
+      "title": "New Year's Day (The 'Seventies)",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/61321.html.images"
+    },
+    {
+      "title": "Fighting France, from Dunkerque to Belfort",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4550.html.images"
+    },
+    {
+      "title": "The Triumph Of Night: 1916",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/24351.html.images"
+    },
+    {
+      "title": "The Early Short Fiction of Edith Wharton — Part 2",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/306.html.images"
+    },
+    {
+      "title": "The Glimpses of the Moon",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/1263.html.images"
+    },
+    {
+      "title": "The Valley of Decision",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4327.html.images"
+    },
+    {
+      "title": "Italian Villas and Their Gardens",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/53495.html.images"
+    },
+    {
+      "title": "The Reef",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/283.html.images"
+    },
+    {
+      "title": "The Early Short Fiction of Edith Wharton — Part 1",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/295.html.images"
+    },
+    {
+      "title": "The writing of fiction",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/72446.html.images"
+    },
+    {
+      "title": "Sanctuary",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/7517.html.images"
+    },
+    {
+      "title": "The House of Mirth",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/files/9280/9280-readme.txt"
+    },
+    {
+      "title": "A Son at the Front",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/59437.html.images"
+    },
+    {
+      "title": "Madame de Treymes",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/4518.html.images"
+    },
+    {
+      "title": "The Touchstone",
+      "author": "Wharton, Edith",
+      "link": "https://www.gutenberg.org/ebooks/267.html.images"
     }
   ]
 }
